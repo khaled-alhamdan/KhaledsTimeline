@@ -20,8 +20,8 @@ export const ImagesAdjustments = styled.img`
   width: 225px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 4%;
-  margin-bottom: 30px;
+  margin-top: 2%;
+  margin-bottom: 8%;
   box-shadow: 0px 0px 10px #4f5250;
   border: 4px solid white;
   border-radius: 40%;
